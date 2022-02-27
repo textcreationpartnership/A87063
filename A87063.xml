@@ -1,0 +1,563 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Hangmans joy, or The traytors sorrow. Being a very merry dialogue, between the hang-man, and the haltermaker. Together with some verses, found in the rolls of the pretended High Court of Justice. With an epitaph on those traytors, that murthered the king. Delightful and pleasant, with witty expressions, and if rightly understood.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 18 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A87063</idno>
+            <idno type="STC">Wing H649</idno>
+            <idno type="STC">Thomason E1842_2</idno>
+            <idno type="STC">ESTC R209634</idno>
+            <idno type="EEBO-CITATION">99868499</idno>
+            <idno type="PROQUEST">99868499</idno>
+            <idno type="VID">170453</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A87063)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170453)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 230:E1842[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Hangmans joy, or The traytors sorrow. Being a very merry dialogue, between the hang-man, and the haltermaker. Together with some verses, found in the rolls of the pretended High Court of Justice. With an epitaph on those traytors, that murthered the king. Delightful and pleasant, with witty expressions, and if rightly understood.</title>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for John Andrews, at the white-Lyon neer Py-Corner.,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>[1660]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint date from Wing.</note>
+                  <note>Partly in verse.</note>
+                  <note>Annotation on Thomason copy: "July", "July 17 1660", "1660".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Regicides --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <p>
+               <pb facs="tcp:170453:1" rendition="simple:additions"/>
+THE Hangmans joy, OR THE Traytors Sorrow.</p>
+            <p>BEING, A very merry Dialogue, between the Hang-man, and the Haltermaker.</p>
+            <p>Together with ſome Verſes, found in the Rolls of the pretended High Court of Juſtice.</p>
+            <p>With an Epitapth on thoſe Traytors, that Murthered the King. Delightful and pleaſant, with witty expreſſions, and if rightly underſtood.</p>
+            <p>London, Printed for <hi>John Andrews,</hi> at the white-Lyon neer Py-Corner.</p>
+            <pb facs="tcp:170453:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="dialogue">
+            <pb n="3" facs="tcp:170453:2"/>
+            <head>THE Hangmans Ioy. OR THE Traytors Sorrow. BEING, A very merry Dialogue, between the Hangman and the Halter-maker.</head>
+            <sp>
+               <speaker>Hangman.</speaker>
+               <p>
+                  <seg rend="decorInit">W</seg>Ell met fellow tradeſman, how have you done this long and many a day, I was very fearful that you had not been in health, for I have not ſeen you this long and many a day, what made you for to look
+<pb n="4" facs="tcp:170453:3"/>
+ſo ſadly and droopy? ſo much prethee tell me.</p>
+            </sp>
+            <sp>
+               <speaker>Halter-maker.</speaker>
+               <p>Surely I have great cauſe to be ſorry, for trading hath been ſlack, and no harveſt this many years, but I hope for better trading.</p>
+            </sp>
+            <sp>
+               <speaker>Hangman.</speaker>
+               <p>Yea brother ſo do I too, for a longtime they have cozened me of my trading, and would ſuffer none for to be hanged but for murther only.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>But now I will tell the gallant news, thy trading will now revive, for where thou hadſt one Jobb now thou wilt have five</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Why brother what good news doſt thou heare? tell me, if that I may gaine but one ten pounds by hearing it for to begin the world a new I will give the one quart of the beſt Canary.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Doſt thou think that I am a Canary-bird, thou fool, they ſing in a Cage.</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>Thou Aſs traytors ſing beſt in the tower, for they this whole Nation did devour, Prieſts, and people did them all obey, which brought three Nations al<g ref="char:EOLhyphen"/>moſt to decay.</p>
+            </sp>
+            <sp>
+               <speaker>Haltm.</speaker>
+               <p>ho, ho, ho, a horſe, a horſe, a
+<pb n="5" facs="tcp:170453:3"/>
+horſe, a thouſand pounds for a horſe, to keep head and ſhoulders together: make room for the number of traytors, whoſe breath hath infected three King<g ref="char:EOLhyphen"/>doms, and converted ſtately Territories into new vaumpt Comonwealths</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>They have plagued the people to very ſmall purpoſe, for though they have taken hold of ſanctuary priviledges, and cry pecavey for their lives, yet their extorted Eſtates muſt be forfeited to the right owners again.</p>
+            </sp>
+            <sp>
+               <speaker>Halterm.</speaker>
+               <p>Yea brother and I know that it is a geat grief unto them that hood<g ref="char:EOLhyphen"/>winckt the Nations under the vale of pretended Religion whilſt like that ravi<g ref="char:EOLhyphen"/>ning Harpyes they devoured both mens perſonall and Reall Eſtates: to be called to an account after ſo many years injoy<g ref="char:EOLhyphen"/>ment of the ſame, this comes unexpected</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>Nay brother, they ſay that if they had gon on with their trayterous <hi>Judas</hi> th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y had ſcaped a purging, yea and brother they hope to coſen the hangman, but I hope the contrary.</p>
+            </sp>
+            <sp>
+               <speaker>Haltm.</speaker>
+               <p>Nay brother more then that they confeſs that your woofull cry of drive on carter ſo terrifies and a frights them
+<pb n="6" facs="tcp:170453:4"/>
+the guilty conſcience of thoſe poor black ſaints.</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>Nay brother, many of thoſe have attained to a paſtport to tranſport them, from towne, to towne, till they come to the inviſible Iſle, where they hope for to be ſecure and free from the ſword of Juſtice.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Theſe count themſelves in a far better condition then many of their brethren, whoſe impregnable wiſdom could never reach to the art of navigation for to provide flying frigots againſt this time of trouble if this their Eutopian Counſell failed them.</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>Truly brother, had they been ſo wiſe they might have been tranſport<g ref="char:EOLhyphen"/>ed to the Comonwealth of old <hi>Oceana,</hi> and have been carried by <hi>Caron</hi> over the river of <hi>Stixe</hi> for their better ſecurity.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Yea brother but they ſay that as the caſe ſtands they had better be con<g ref="char:EOLhyphen"/>tent with a priſon then a hempen halter.</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>Truely theſe unjuſt Judges made a juſt and true confeſſion to, and before a friend of ours, which from their own mouths was taken, in a high Court ſhort hand, and ſo was preſt to go out
+<pb n="7" facs="tcp:170453:4"/>
+and to informe the whole Nation of their actions.</p>
+            </sp>
+            <sp>
+               <speaker>Halterm.</speaker>
+               <p>Good brother rehearſe them unto me, and I will be thankful to you for your good will.</p>
+            </sp>
+            <sp>
+               <speaker>Hangm.</speaker>
+               <p>I will rehearſe them as I found them Inrolled in the record of their high Court of Juſtice.</p>
+            </sp>
+            <lg>
+               <head>The Confeſſion of thoſe unjuſt Jdges:</head>
+               <l>
+                  <hi>Our King we murdered, yet the works not don</hi>
+               </l>
+               <l>
+                  <hi>For then on</hi> Holland<g ref="char:punc">▪</g> Capel, Hambelton</l>
+               <l>
+                  <hi>Our pauſe we laid, by us was</hi> Darbys <hi>loſs,</hi>
+               </l>
+               <l>
+                  <hi>As by the Scotch Kirk that Noble Earl</hi> Montroſs,</l>
+               <l>
+                  <hi>We</hi> Garret <hi>kild, &amp; valiant</hi> Brown Buſhel,</l>
+               <l>
+                  <hi>Sir</hi> Alexander, Cary, <hi>and</hi> Vowel,</l>
+               <l>Aſton, Stacy, <hi>and</hi> Hewet <hi>who doth lye</hi>
+               </l>
+               <l>
+                  <hi>A martyred Saint, and Noble</hi> Slingsby,</l>
+               <l>
+                  <hi>Beſides to agravate our ſins above,</hi>
+               </l>
+               <l>
+                  <hi>The thoughts of man we Murthered Maſter</hi> Love,</l>
+               <l>
+                  <hi>With many more, we took no pitty.</hi>
+               </l>
+               <l>
+                  <hi>Drawn hangd &amp; quartered in fair</hi> London <hi>City,</hi>
+               </l>
+               <l>
+                  <hi>There's none of us but do deſerve to dye,</hi>
+               </l>
+               <l>
+                  <hi>Who for theſe cruel evils in priſon lye,</hi>
+               </l>
+               <l>
+                  <hi>Where we had better be, our lives to ſave,</hi>
+               </l>
+               <l>
+                  <hi>Then (as deſerved) the gallow tree to have,</hi>
+               </l>
+               <l>
+                  <pb n="8" facs="tcp:170453:5"/>
+                  <hi>Our brother</hi> Barkſtead <hi>once a man of power,</hi>
+               </l>
+               <l>
+                  <hi>Is fled whilſt we have taken</hi> Londons <hi>Tower</hi>
+               </l>
+               <l>
+                  <hi>Like Hectors bold, we did preſume to kill</hi>
+               </l>
+               <l>
+                  <hi>Our King, though it be ſore againſt our will</hi>
+               </l>
+               <l>
+                  <hi>To anſwer that pretended good Old Cauſe,</hi>
+               </l>
+               <l>
+                  <hi>By which we robd poor</hi> England <hi>of juſt laws</hi>
+               </l>
+               <l>
+                  <hi>Which would condemn us all, had we our due</hi>
+               </l>
+               <l>
+                  <hi>To be drawn hang'd and then quartered too.</hi>
+               </l>
+            </lg>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Brother theſe inhuman Judges, firſt kild their K. and then baniſht his Q. chaſed away his ſons, ſlew, and deſtroyed and Impriſoned all his friends, made it Treaſon for to name the King, or once to mention him.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Nay more then that, they took away all his lands<g ref="char:punc">▪</g> and gave or ſold them one to another, felling his Timber, deſtroying his Deer, caſting down his Ca<g ref="char:EOLhyphen"/>ſtles; poleing his Subjects and what not.</p>
+            </sp>
+            <sp>
+               <speaker>Halt<g ref="char:punc">▪</g>
+               </speaker>
+               <p>Yea thats two true, but I can certi<g ref="char:EOLhyphen"/>fie you that theſe purchaſers muſt now nil ye, will ye, deliver up their unjuſt gotten land unto the right owners.</p>
+            </sp>
+            <sp>
+               <speaker>Hang<g ref="char:punc">▪</g>
+               </speaker>
+               <p>Yea I know that Mr. <hi>Edwards</hi> muſt deliver up his manner of Old Court which he purchaſed for a ſmall ſum of money.</p>
+            </sp>
+            <sp>
+               <pb n="9" facs="tcp:170453:5"/>
+               <speaker>Halt.</speaker>
+               <p>A ye, and Sir <hi>George Norton</hi> muſt give up his manor of <hi>Richmond,</hi> with the houſe and materials.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>And Capt. <hi>John Blackwel</hi> muſt return his Manor of <hi>Eggham</hi> that he holdeth.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>And Col. <hi>Okey</hi> muſt now forſake his Manor of <hi>Ampthil,</hi> and his Manor of <hi>Mill-brook,</hi> and betake himſelf to his old road, oh this fortune is a Jade.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Col. <hi>Wauton</hi> and <hi>Adrian Scr<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>op</hi> muſt now for go their Manors at <hi>Sumer<g ref="char:EOLhyphen"/>ham</hi> with the Chaſe and Park, and the Manor of <hi>Crowland,</hi> with part of the Maner of <hi>Spalding,</hi> they muſt leave theſe Manors.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Hey day! what muſt they part with all theſe at once I thought ſomething was the matter, that they horded up all the Manors, that thou and I had ſo few, marry come up hear.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>And Mr. <hi>Blackwel</hi> muſt leave that part of the Manor, of <hi>Eaſt-ham,</hi> that he purchaſed at ſo eaſie a rate.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>And <hi>Edward whaley</hi> muſt leave his too Manors of the Manor of <hi>Weſt-Walton,</hi> and the Manor of <hi>Trington,</hi> for he purchaſt them at a very eaſie rate.</p>
+            </sp>
+            <sp>
+               <pb n="10" facs="tcp:170453:6"/>
+               <speaker>Hang.</speaker>
+               <p>He ſhowed but little manners, when he bore a houſe a grudge for many years together, onely becauſe a ſtranger by chance caſt a little peece of a tobacco<g ref="char:EOLhyphen"/>pipe out of his hand unawars, hit him him oth head, for this and no other cauſe, he ſought for to undo all that ever came into that houſe, ſince that time.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Nay more then that Mr. <hi>Dendy</hi> purchaſed the manner of <hi>Eye</hi> but now he muſt throw up his title.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>
+                  <hi>Non-ſuch</hi> great Park then was purchaſed by Col. <hi>Pride</hi> from his force they will the ſame divide.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Col. <hi>John Lambert</hi> purchaſed <hi>Non-ſuch</hi> houſe and park, but his dogs no more in it muſt bark.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>That <hi>Scot</hi> that ſaid he deſired no other Epitaph upon his tombe when he was dead, but only that they ſhould write <hi>Here lyeth Thomas Scot one of the late Kings Tryers,</hi> is now very likely for to come to my hand, then will I ſhow him as much mercy as he ſhowed his King, and toſs him to ſome purpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>I remember on verſe more found inroll'd in the Court of Injuſtice, worth the reciting which is this.</p>
+            </sp>
+            <l>
+               <pb n="11" facs="tcp:170453:6"/>
+               <hi>Now Juſtice doth his ſword advance,</hi>
+            </l>
+            <l>
+               <hi>Good Lord what will betide,</hi>
+            </l>
+            <l>
+               <hi>Though ſome Traytors are gone to</hi> France,</l>
+            <l>
+               <hi>Of thoſe here abide,</hi>
+            </l>
+            <l>
+               <hi>The Laws will now throughout the Land,</hi>
+            </l>
+            <l>
+               <hi>To execution bring.</hi>
+            </l>
+            <l>
+               <hi>Thoſe Tyrants great who had a hand,</hi>
+            </l>
+            <l>
+               <hi>In Murdring</hi> Charls <hi>our King.</hi>
+            </l>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>A ye! marry I like this well, for now both thou and I ſhall have good tra<g ref="char:EOLhyphen"/>ding, do thou be ſure to make thy Hal<g ref="char:EOLhyphen"/>ters very ſtrong, and not too long.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Ile warrant thee Lad, Ile warrant thee, let me alone, for a plain dance for Ile ſpare neither<g ref="char:punc">▪</g> for ſtuff nor labour, but be ſure that thou doſt procure me a good price then.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>I will help the to a very great price or elſe I will give thee an halfe pen<g ref="char:EOLhyphen"/>ny out of my fees, then ſhall I have but juſt thirteen pence to my ſelf.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Mary I thank your heartout, you will be at great charges, thank you for nothing.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Well, well, I will henceforward ſave my mony and beſtow it upon ſtrong liquor, but if that you will rehearſe the other verſes that you found in that un<g ref="char:EOLhyphen"/>juſt
+<pb n="12" facs="tcp:170453:7"/>
+Court, the next Beer-tavorn we come at, I will be ſo generous that I will give thee half a pint of ſmall beer.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Oh abominable nigard that will promiſe me an half penny, to augment my wages, and put me off with half a pint of ſmall beer.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Why thou Genoſifixe is not that enough to give; away proceed to your verſes.</p>
+            </sp>
+            <sp>
+               <speaker>Haltermaker.</speaker>
+               <lg>
+                  <l>
+                     <hi>Gentry late come out of</hi> France, <hi>uſe hoſpitallity,</hi>
+                  </l>
+                  <l>
+                     <hi>The Criples they begin to dance, and vows they ſhall not dye,</hi>
+                  </l>
+                  <l>
+                     <hi>Beggers that ride on horſe back they, are ſurely born to ſorrow,</hi>
+                  </l>
+                  <l>
+                     <hi>For they that live in pomp to day, may be hanged before to morrow,</hi>
+                  </l>
+                  <l>
+                     <hi>Traytors then ſhall now go down, and tirannize no more,</hi>
+                  </l>
+                  <l>
+                     <hi>On ſuch Varlets fortune doth frown, and payes them their old ſcore,</hi>
+                  </l>
+                  <l>
+                     <hi>Then lets be merry, carous, and prate, good lack what dayes are theſe,</hi>
+                  </l>
+                  <l>
+                     <hi>To ſee the change that is ſo great, the Hangman muſt us eaſe.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>O brave I like this well, this
+<pb n="12" facs="tcp:170453:7"/>
+pleaſes my palate exceeding well, for now I am ſure that I ſhall do more work in one month now, then I have done in ſeaven years heretofore, for I am credibly in<g ref="char:EOLhyphen"/>formed, that there are twenty great hea<g ref="char:EOLhyphen"/>vie men to be executed.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>There are many run away beyond the Seas quite out of your reach and therefore you will be deceived of your purpoſe for all your haſt.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Doſt thou not think that any Prince whatſoever will not ſend back thoſe traytors to receive their due de<g ref="char:EOLhyphen"/>ſerved reward?</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>Nay Maſter Sniper-ſnapar. I conſent that it was their own Laws that none ſhould be hanged except it was for murder, and therefore it is but juſt, that they that Murdered their Soveragin ſhould be truſt.</p>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>You ſay true, for they do juſt<g ref="char:EOLhyphen"/>ly deſerve for to be put to death, but af<g ref="char:EOLhyphen"/>ter what manner, that lyes not in my power to diſpoſe.</p>
+            </sp>
+            <sp>
+               <speaker>Halt.</speaker>
+               <p>I tell thee, I would have them all hangd on the trees for the fowls to feed upon, for truly I think that none but their one confederats will pitty them.</p>
+            </sp>
+            <sp>
+               <pb n="14" facs="tcp:170453:8"/>
+               <speaker>Hang.</speaker>
+               <p>Thou ſayſt true indeed, for my own part I would fain be exerciſing my Office upon them, either by beheading or hanging of them all, if they will be rul'd by me.</p>
+            </sp>
+            <sp>
+               <speaker>Haltermaker.</speaker>
+               <lg>
+                  <l>It's time for birds to fly that do expect,</l>
+                  <l>A halter for treaſon and their baſe neglect</l>
+                  <l>Of duty to their Soveragine Lord their King</l>
+                  <l>Such birds I wiſh may all in ſorrow ſing,</l>
+                  <l>Not in a cage as many birds you ſee,</l>
+                  <l>But in a rope upon the Gallow tree,</l>
+                  <l>Then ſhall we have trading and be brave,</l>
+                  <l>For never a one of them I hope they'l ſave,</l>
+                  <l>Thoſe that went beyond Sea may return,</l>
+                  <l>For whoſe defections all the land did mourn.</l>
+                  <l>The harveſt is ripe, their ſins are red,</l>
+                  <l>Tis time that they ſhould make a grave their bed</l>
+                  <l>And this is truth that I to thee do tell</l>
+                  <l>And thus in ſoth I bid adieu farwel.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Yea marry Sir, better and bet<g ref="char:EOLhyphen"/>ter ſtill boy, good news for me boyes, up they go if any one of them was the deareſt friend that I have, in this preſent world, Traytors hang them up all.</p>
+            </sp>
+            <sp>
+               <speaker>Halterman.</speaker>
+               <lg>
+                  <l>Our grief was great but now our ſtate, Is well recruted again,</l>
+                  <l>
+                     <pb n="15" facs="tcp:170453:8"/>
+The Wolf of late, is out of date, the Lion he doth raigne.</l>
+                  <l>Traytors then muſt come home again, opreſſions out of ſeaſon,</l>
+                  <l>Their damnable ſtrain is all in vain, their actions ſmell of Treaſon.</l>
+                  <l>Tyranny muſt down in every Town, for no Traytors here ſhall be,</l>
+                  <l>Your treaſon's known and none will own, ſuch Traytors as you be.</l>
+                  <l>Then let theſe Traytors their deſert now have</l>
+                  <l>And poſt to hell a labour for to ſave,</l>
+                  <l>For covetouſneſs you kil<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>d your King I know</l>
+                  <l>As in the weal, ſo muſt you ſhare in wo.</l>
+                  <l>Such traytors ſhould be hangd that baſely boſt</l>
+                  <l>As faring well by ſhamleſs crying Roſt,</l>
+                  <l>And now you Traytors, pack togethergo,</l>
+                  <l>we ſhall live happy when your gone I trow.</l>
+               </lg>
+            </sp>
+            <sp>
+               <speaker>Hang.</speaker>
+               <p>Run for the Carpenters, come away, build up the Scaffold at the Tower hill, and another in the Palace-yard, let us do to them as they did to us, or it ſhall hard.</p>
+               <lg>
+                  <l>
+                     <hi>Then haſten Carpenters and let us Gallows have a pace.</hi>
+                  </l>
+                  <l>
+                     <hi>To hang up every Traytor yet, that invies</hi> Charls <hi>his race.</hi>
+                  </l>
+               </lg>
+            </sp>
+            <sp>
+               <pb n="16" facs="tcp:170453:9"/>
+               <speaker>Halt.</speaker>
+               <p>And this ſhall be their Epitaph, upon their graves.</p>
+               <lg>
+                  <l>Here lyes within this barre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                        <desc>•</desc>
+                     </gap> ground</l>
+                  <l>The chiefe Impoſters ſo profound,</l>
+                  <l>That with the Angels guardian,</l>
+                  <l>Both King and Kingdom did trapan,</l>
+                  <l>Their conſciences was ſo wide, that you</l>
+                  <l>Might coach and horſes drive quit through</l>
+                  <l>And they confounded every one,</l>
+                  <l>And calld three Nations all their own,</l>
+                  <l>They were Tyrants of the largeſt ſize,</l>
+                  <l>Confounding the ignorant and wiſe,</l>
+                  <l>They did rebel againſt their King,</l>
+                  <l>And Traytors proved in every thing.</l>
+                  <l>A ſhameful death God will them ſend,</l>
+                  <l>And ſo farwel this is the end.</l>
+               </lg>
+            </sp>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:170453:9"/>
+            <trailer>
+               <figure>
+                  <head>Harry Martin</head>
+               </figure>
+            </trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
